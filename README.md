@@ -3,7 +3,7 @@ AIFFEL_quest_rs
 ├── MainQuest  
 │  &nbsp;&nbsp;   ├── Quest01  
 │  &nbsp;&nbsp;   │  &nbsp;&nbsp; ├── Quest01.ipynb  
-│  &nbsp;&nbsp;   │   &nbsp;&nbsp;└── README.md  
+│  &nbsp;&nbsp;   │  &nbsp;&nbsp; └── README.md  
 │  &nbsp;&nbsp;   ├── Quest02  
 │  &nbsp;&nbsp;   │  &nbsp;&nbsp; ├── Quest02.ipynb  
 │  &nbsp;&nbsp;   │  &nbsp;&nbsp; └── README.md  
@@ -67,11 +67,11 @@ AIFFEL_quest_rs
 &nbsp;&nbsp;	  │  &nbsp;&nbsp; ├── Transformer.ipynb  
 &nbsp;&nbsp;	  │  &nbsp;&nbsp; └── README.md  
 &nbsp;&nbsp;	  ├── BERT  
-&nbsp;&nbsp;	  │ &nbsp;&nbsp;  ├── BERT.ipynb  
-&nbsp;&nbsp;	  │ &nbsp;&nbsp;  └── README.md  
+&nbsp;&nbsp;	  │  &nbsp;&nbsp;  ├── BERT.ipynb  
+&nbsp;&nbsp;	  │  &nbsp;&nbsp;  └── README.md  
 &nbsp;&nbsp;	  └── KoChatgpt  
-&nbsp;&nbsp;	    &nbsp;&nbsp;  ├── BERT.ipynb  
-&nbsp;&nbsp;	    &nbsp;&nbsp;  └── README.md  
+&nbsp;&nbsp;	     &nbsp;&nbsp;  ├── BERT.ipynb  
+&nbsp;&nbsp;	     &nbsp;&nbsp;  └── README.md  
 		
 		
 
