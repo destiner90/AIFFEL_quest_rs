@@ -9,8 +9,8 @@
         - 중요! 해당 조건을 만족하는 부분을 캡쳐해 근거로 첨부
           
         - Training and Validation Accuracy | loss를 정확하게 출력하였다
-        - [loss](.img/img1.png)
-        - [Accuracy](.img/img2.png)
+        - [loss](./img/img1.png)
+        - [Accuracy](./img/img2.png)
     
 - [V]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
@@ -21,7 +21,7 @@
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
      
         - 필요에 따라 모델을 구성함
-        - [model](.img/img3.png)
+        - [model](./img/img3.png)
         
 - [V]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
 새로운 시도 또는 추가 실험을 수행해봤나요?**
